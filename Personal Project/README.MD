@@ -17,7 +17,8 @@ Run SudokuGUI for graphical interface
 The World's Hardest Sudoku. 
 Sudoku is easily the most played and most analyzed puzzle in the world.
 In 2012, Finnish mathematician Arto Inkala claimed to have created the "World's Hardest Sudoku"
-
+-------------------------------
+Example sudoku grid:
 -------------------------------
 
 | 8  0  0 | 0  0  0 | 0  0  0 
@@ -26,7 +27,7 @@ In 2012, Finnish mathematician Arto Inkala claimed to have created the "World's 
 
 | 0  7  0 | 0  9  0 | 2  0  0
 
-----------+---------+----------
+========================
 
 | 0  5  0 | 0  0  7 | 0  0  0
 
@@ -34,7 +35,7 @@ In 2012, Finnish mathematician Arto Inkala claimed to have created the "World's 
 
 | 0  0  0 | 1  0  0 | 0  3  0
 
-----------+---------+----------
+========================
 
 | 0  0  1 | 0  0  0 | 0  6  8
 
